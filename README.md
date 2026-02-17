@@ -79,7 +79,6 @@ Veja a lista completa no [Google Scholar](https://scholar.google.com/citations?u
 
 - [**Observatório de Clima e Saúde**](https://climaesaude.icict.fiocruz.br/) — Plataforma de monitoramento dos impactos do clima na saúde
 - [**Observatório Covid-19 Fiocruz**](https://portal.fiocruz.br/observatorio-covid-19) — Análises e boletins sobre a evolução da pandemia no Brasil
-- [**Plataforma de Ciência de Dados**](https://www.icict.fiocruz.br/) — Ferramentas para análise de dados do SUS
 
 ---
 
@@ -95,8 +94,6 @@ Veja a lista completa no [Google Scholar](https://scholar.google.com/citations?u
 ---
 
 <div align="center">
-
-*"Do global ao local: transformando dados em ações para a saúde pública."*
 
 📍 Rio de Janeiro, Brasil · 🏥 Fiocruz/ICICT · ♟️ Xadrez · 🐕 Dog lover
 
