@@ -38,6 +38,22 @@ Minha pesquisa combina **ciência de dados**, **epidemiologia espacial** e **geo
 
 ---
 
+## Livros e Capítulos
+
+> Barcellos, C.; Xavier, D.R.; Gracie, R. et al. **Mudanças Climáticas, Desastres e Saúde.** Editora Fiocruz, 2022. — *Indicado ao Prêmio ABEU 2023.*
+
+> Freitas, C.M.; Barcellos, C.; Villela, D.A.M. (Orgs.). **Covid-19 no Brasil: cenários epidemiológicos e vigilância em saúde.** Editora Fiocruz, 2021. — *Capítulo: Cobertura e oportunidade dos sistemas Sivep-Gripe e e-SUS VE.*
+
+> Nobre, C.A.; Marengo, J.A. (Orgs.). **Mudanças Climáticas em Rede: um olhar interdisciplinar.** INCT/CNPq, 2017. — *Capítulo: Saúde — Resultados Científicos.*
+
+> Gurgel, H.C.; Barcellos, C.; Xavier, D.R. **Desastres climáticos e saúde humana: riscos e vulnerabilidades.** In: *Redução de Vulnerabilidade e Resiliência Associados*, 2017.
+
+> Silva, M.A.; Xavier, D.R.; Rocha, V. **Hospitais Seguros e Resilientes: desafios e estratégias de preparação e resposta a emergências e desastres.** Editora CRV, 2023.
+
+> Gracie, R.; Xavier, D.R.; Hacon, S. **The Experience of the Brazilian Climate and Health Observatory.** In: *Communicating Climate Change Information for Decision-Making*, Springer, 2018.
+
+---
+
 ## Publicações Recentes
 
 > Xavier, D.R. et al. **Climate change and health vulnerabilities: the case of 2024 floods in Rio Grande do Sul, Brazil.** *Trends in Health Sciences*, 2025.
@@ -50,31 +66,16 @@ Lista completa no [Google Scholar](https://scholar.google.com/citations?user=PZW
 
 ---
 
-## Na Mídia
-
-| Veículo | Tema | Link |
-|---------|------|------|
-| **Jornal Nacional** (TV Globo) | Ritmo de vacinação contra Covid-19 no Brasil | [Assistir](https://g1.globo.com/jornal-nacional/noticia/2021/03/15/no-atual-ritmo-fiocruz-preve-2-anos-e-meio-para-imunizar-toda-a-populacao-com-mais-de-18-anos.ghtml) |
-| **Fantástico** (TV Globo) | Encontros seguros durante a pandemia | [Assistir](https://g1.globo.com/fantastico/noticia/2020/10/18/encontros-na-pandemia-especialista-alerta-e-da-dicas-para-encontrar-com-seguranca.ghtml) |
-| **BBC Brasil** | Testagem insuficiente de Covid-19 no Brasil | [Ler](https://www.bbc.com/portuguese/brasil-57163793) |
-| **CNN Brasil** | Clima extremo e mortes evitáveis no Brasil | [Ler](https://www.cnnbrasil.com.br/saude/clima-extremo-tem-aumentado-numero-de-mortes-evitaveis-no-brasil-e-no-mundo/) |
-| **CNN Brasil** | Dengue avança no Sul com mudanças climáticas | [Ler](https://www.cnnbrasil.com.br/saude/dengue-avanca-no-sul-do-pais-e-escancara-impacto-das-mudancas-climaticas/) |
-| **Folha de S.Paulo** | Enchentes no RS afetam 2,5 milhões de pessoas | [Ler](https://www1.folha.uol.com.br/equilibrioesaude/2024/05/fiocruz-estima-25-milhoes-de-afetados-com-as-enchentes-no-rio-grande-do-sul.shtml) |
-| **Folha de S.Paulo** | Interiorização da pandemia de Covid-19 | [Ler](https://www1.folha.uol.com.br/equilibrioesaude/2020/12/fiocruz-diz-que-pandemia-no-interior-alcanca-a-dos-centros-urbanos-e-pode-aumentar-com-festas.shtml) |
-| **O Globo** | Desertos vacinais no Brasil | [Ler](https://oglobo.globo.com/saude/covid-19-saiba-onde-estao-os-maiores-desertos-vacinais-do-pais-1-25397280) |
-| **O Globo** | Mortes fora de UTI durante a Ômicron | [Ler](https://oglobo.globo.com/saude/numero-de-mortes-de-hospitalizados-que-nao-chegam-uti-cresce-em-meio-avanco-da-omicron-25395545) |
-| **CBN** | Impactos das enchentes no Rio Grande do Sul | [Ouvir](https://cbn.globo.com/brasil/entrevista/2024/05/23/onde-o-estado-ja-nao-chegava-antes-da-enchente-segue-nao-chegando-diz-pesquisador-da-fiocruz.ghtml) |
-| **Sem Censura** (TV Brasil) | Ferramenta MonitoraCovid-19 | [Assistir](https://tvbrasil.ebc.com.br/sem-censura-traz-papo-sobre-ferramenta-monitoracovid-19) |
-| **Repórter Brasil** (TV Brasil) | Chuvas e transmissão de doenças | [Assistir](https://www.youtube.com/watch?v=MwxEgfwX4_c) |
-| **UOL** | Demora na divulgação de casos de Covid-19 | [Ler](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/08/25/coronavirus-demora-registro-de-casos-fiocruz.htm) |
-| **Nexo Jornal** | Precariedade hospitalar e mortes por Covid | [Ler](https://www.nexojornal.com.br/expresso/2021/03/16/como-a-precariedade-hospitalar-impulsiona-as-mortes-por-covid) |
-
----
-
 ## Projetos
 
 - [**Observatório de Clima e Saúde**](https://climaesaude.icict.fiocruz.br/) — Monitoramento dos impactos do clima na saúde pública brasileira
 - [**Observatório Covid-19 Fiocruz**](https://portal.fiocruz.br/observatorio-covid-19) — Análises e boletins sobre a evolução da pandemia no Brasil
+
+---
+
+## Na Mídia
+
+Entrevistas e participações em veículos como [Jornal Nacional](https://g1.globo.com/jornal-nacional/noticia/2021/03/15/no-atual-ritmo-fiocruz-preve-2-anos-e-meio-para-imunizar-toda-a-populacao-com-mais-de-18-anos.ghtml), [Fantástico](https://g1.globo.com/fantastico/noticia/2020/10/18/encontros-na-pandemia-especialista-alerta-e-da-dicas-para-encontrar-com-seguranca.ghtml), [BBC Brasil](https://www.bbc.com/portuguese/brasil-57163793), [CNN Brasil](https://www.cnnbrasil.com.br/saude/clima-extremo-tem-aumentado-numero-de-mortes-evitaveis-no-brasil-e-no-mundo/), [Folha de S.Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2024/05/fiocruz-estima-25-milhoes-de-afetados-com-as-enchentes-no-rio-grande-do-sul.shtml), [O Globo](https://oglobo.globo.com/saude/covid-19-saiba-onde-estao-os-maiores-desertos-vacinais-do-pais-1-25397280), [CBN](https://cbn.globo.com/brasil/entrevista/2024/05/23/onde-o-estado-ja-nao-chegava-antes-da-enchente-segue-nao-chegando-diz-pesquisador-da-fiocruz.ghtml), [Sem Censura](https://tvbrasil.ebc.com.br/sem-censura-traz-papo-sobre-ferramenta-monitoracovid-19) e [Nexo Jornal](https://www.nexojornal.com.br/expresso/2021/03/16/como-a-precariedade-hospitalar-impulsiona-as-mortes-por-covid), sobre temas como mudanças climáticas, arboviroses, Covid-19 e emergências em saúde pública.
 
 ---
 
