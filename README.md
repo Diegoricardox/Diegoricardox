@@ -4,9 +4,9 @@
 
 # Diego Ricardo Xavier Silva
 
-**Pesquisador em Saúde Pública · Fiocruz/ICICT**
+**Pesquisador em Saúde Pública e Ciência de Dados na Fiocruz**
 
-Doutor em Saúde Pública (ENSP/Fiocruz). Coordenador do Observatório de Clima e Saúde. Laboratório de Informação em Saúde (LIS).
+Doutor em Saúde Pública pela Escola Nacional de Saúde Pública Sergio Arouca (ENSP/Fiocruz), com foco em epidemiologia, análise espacial e ciência de dados aplicada à saúde. Atualmente, sou pesquisador no Laboratório de Informação em Saúde (LIS) do Instituto de Comunicação e Informação Científica e Tecnológica em Saúde (Icict/Fiocruz), onde coordeno o **Observatório de Clima e Saúde**.
 
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IndoaXRlIj5MPC90ZXh0Pjwvc3ZnPg==)](http://lattes.cnpq.br/7186076558136407)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5259--7732-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0001-5259-7732)
@@ -20,62 +20,51 @@ Doutor em Saúde Pública (ENSP/Fiocruz). Coordenador do Observatório de Clima 
 
 ## Sobre mim
 
-Pesquisador na **Fundação Oswaldo Cruz (Fiocruz)** desde 2009, atuando no Instituto de Comunicação e Informação Científica e Tecnológica em Saúde (ICICT). Coordeno o **Observatório de Clima e Saúde**, onde desenvolvemos métodos para monitorar os impactos das mudanças climáticas e desastres ambientais sobre a saúde da população brasileira.
+Minha trajetória é dedicada a compreender e mitigar os impactos de fatores ambientais e sociais na saúde. Desde 2013 na **Fundação Oswaldo Cruz (Fiocruz)**, lidero e colaboro em projetos que utilizam geotecnologias, análise de séries temporais e ciência de dados para responder a emergências em saúde pública, como a pandemia de Covid-19, desastres climáticos e a crise sanitária Yanomami.
 
-Minha pesquisa combina **ciência de dados**, **epidemiologia espacial** e **geoprocessamento** para analisar a difusão de arboviroses (dengue, Zika, Chikungunya), emergências em saúde pública e indicadores do SUS. Também leciono Geografia da Saúde e participo de grupos de pesquisa em impactos climáticos globais e informação em saúde.
-
----
-
-## Áreas de Pesquisa
-
-| Área | Descrição |
-|------|-----------|
-| **Clima e Saúde** | Mudanças climáticas, desastres ambientais e seus efeitos na saúde pública |
-| **Ciência de Dados** | Mineração de dados, teoria dos grafos e aprendizado de máquina em saúde |
-| **Epidemiologia Espacial** | Geoprocessamento, SIG e difusão espaço-temporal de doenças |
-| **Arboviroses** | Dengue, Zika, Chikungunya — dinâmica espacial e fatores socioambientais |
-| **Emergências em Saúde** | Vigilância e resposta a pandemias, desastres e crises sanitárias |
+Como coordenador do **Observatório de Clima e Saúde**, nosso objetivo é desenvolver sistemas de informação e alerta para subsidiar políticas públicas e proteger populações vulneráveis. Sou também cientista de dados na Plataforma de Ciência de Dados Aplicada à Saúde (PCDaS), uma parceria entre o Icict/Fiocruz e o LNCC.
 
 ---
 
-## Livros e Capítulos
+## Áreas de Atuação
 
-> Barcellos, C.; Xavier, D.R.; Gracie, R. et al. **Mudanças Climáticas, Desastres e Saúde.** Editora Fiocruz, 2022. — *Indicado ao Prêmio ABEU 2023.*
+| Área | Foco |
+|---|---|
+| **Epidemiologia e Saúde Pública** | Análise de determinantes socioambientais da saúde e vigilância de doenças. |
+| **Ciência de Dados em Saúde** | Modelagem preditiva, análise de redes e mineração de dados para o SUS. |
+| **Análise Espacial e Geoinformática** | Uso de Sistemas de Informação Geográfica (SIG) para mapear riscos e acessibilidade. |
+| **Mudanças Climáticas e Saúde** | Monitoramento de impactos de eventos extremos (ondas de calor, enchentes) na saúde. |
+| **Arboviroses e Doenças Transmissíveis** | Estudo da dinâmica espaço-temporal de doenças como Dengue, Zika e Malária. |
 
-> Freitas, C.M.; Barcellos, C.; Villela, D.A.M. (Orgs.). **Covid-19 no Brasil: cenários epidemiológicos e vigilância em saúde.** Editora Fiocruz, 2021. — *Capítulo: Cobertura e oportunidade dos sistemas Sivep-Gripe e e-SUS VE.*
+---
 
-> Nobre, C.A.; Marengo, J.A. (Orgs.). **Mudanças Climáticas em Rede: um olhar interdisciplinar.** INCT/CNPq, 2017. — *Capítulo: Saúde — Resultados Científicos.*
+## Projetos em Destaque
 
-> Gurgel, H.C.; Barcellos, C.; Xavier, D.R. **Desastres climáticos e saúde humana: riscos e vulnerabilidades.** In: *Redução de Vulnerabilidade e Resiliência Associados*, 2017.
-
-> Silva, M.A.; Xavier, D.R.; Rocha, V. **Hospitais Seguros e Resilientes: desafios e estratégias de preparação e resposta a emergências e desastres.** Editora CRV, 2023.
-
-> Gracie, R.; Xavier, D.R.; Hacon, S. **The Experience of the Brazilian Climate and Health Observatory.** In: *Communicating Climate Change Information for Decision-Making*, Springer, 2018.
+| Projeto | Minha Função | Descrição |
+|---|---|---|
+| **Observatório de Clima e Saúde** | Coordenador | Plataforma de monitoramento dos efeitos das mudanças climáticas na saúde. |
+| **MonitoraCovid-19** | Epidemiologista | Sistema de monitoramento da pandemia de Covid-19 no Brasil. |
+| **Harmonize Brazil** | Pesquisador | Consórcio internacional para mapear impactos das mudanças climáticas na saúde. |
+| **FluxSUS** | Coordenador | Ferramenta para analisar o comportamento da rede de saúde durante desastres. |
+| **GT Geo-Yanomami** | Membro | Análise de dados sobre a crise de saúde na Terra Indígena Yanomami. |
 
 ---
 
 ## Publicações Recentes
 
-> Xavier, D.R. et al. **Climate change and health vulnerabilities: the case of 2024 floods in Rio Grande do Sul, Brazil.** *Trends in Health Sciences*, 2025.
+- XAVIER, D. R. et al. **Climate change and health vulnerabilities: the case of 2024 floods in Rio Grande do Sul, Brazil.** 2025.
+- REIS, I. C.; LANA, R.; CODEÇO, C. T.; XAVIER, D. R. et al. **Co-occurrence of malaria and Chagas disease in the Brazilian Amazon.** *PLoS Neglected Tropical Diseases*, 2025.
+- XAVIER, D. et al. **Mudanças climáticas e desafios de saúde na periferia do mundo.** *Ciência & Saúde Coletiva*, 2025.
+- FREITAS, C. M.; BARCELLOS, C.; XAVIER, D. R. et al. **Observatório Covid-19 Fiocruz — uma análise da evolução da pandemia.** *Ciência & Saúde Coletiva*, 2023.
+- XAVIER, D. R. et al. **Involvement of political and socio-economic factors in the spatial and temporal dynamics of COVID-19 outcomes in Brazil.** *The Lancet Regional Health — Americas*, 2022.
 
-> Xavier, D.R. et al. **Covid-19 Fiocruz Observatory — an analysis of the evolution of the pandemic from February 2020 to April 2022.** *Ciência & Saúde Coletiva*, 2023.
-
-> Xavier, D.R. et al. **Difusão espaço-tempo do dengue no Município do Rio de Janeiro, Brasil, no período de 2000-2013.** *Cadernos de Saúde Pública*, 2017.
-
-Lista completa no [Google Scholar](https://scholar.google.com/citations?user=PZWm2wYAAAAJ) ou no [Currículo Lattes](http://lattes.cnpq.br/7186076558136407).
-
----
-
-## Projetos
-
-- [**Observatório de Clima e Saúde**](https://climaesaude.icict.fiocruz.br/) — Monitoramento dos impactos do clima na saúde pública brasileira
-- [**Observatório Covid-19 Fiocruz**](https://portal.fiocruz.br/observatorio-covid-19) — Análises e boletins sobre a evolução da pandemia no Brasil
+*Lista completa no [Google Scholar](https://scholar.google.com/citations?user=PZWm2wYAAAAJ) e [Lattes](http://lattes.cnpq.br/7186076558136407).*
 
 ---
 
 ## Na Mídia
 
-Entrevistas e participações em veículos como [Jornal Nacional](https://g1.globo.com/jornal-nacional/noticia/2020/12/08/fiocruz-emite-novo-alerta-sobre-o-aumento-dos-casos-em-todo-o-brasil.ghtml), [Fantástico](https://g1.globo.com/jornal-nacional/noticia/2020/05/06/coronavirus-avanca-no-interior-e-no-litoral-do-brasil-diz-dados-do-ministerio-da-saude.ghtml), [BBC Brasil](https://www.bbc.com/portuguese/brasil-57163793), [CNN Brasil](https://www.cnnbrasil.com.br/saude/clima-extremo-tem-aumentado-numero-de-mortes-evitaveis-no-brasil-e-no-mundo/), [Folha de S.Paulo](https://www1.folha.uol.com.br/equilibrioesaude/2024/05/fiocruz-estima-25-milhoes-de-afetados-com-as-enchentes-no-rio-grande-do-sul.shtml), [O Globo](https://oglobo.globo.com/saude/covid-19-saiba-onde-estao-os-maiores-desertos-vacinais-do-pais-1-25397280), [CBN](https://cbn.globo.com/brasil/entrevista/2024/05/23/onde-o-estado-ja-nao-chegava-antes-da-enchente-segue-nao-chegando-diz-pesquisador-da-fiocruz.ghtml), [Sem Censura](https://tvbrasil.ebc.com.br/sem-censura-traz-papo-sobre-ferramenta-monitoracovid-19) e [Nexo Jornal](https://www.nexojornal.com.br/expresso/2021/03/16/como-a-precariedade-hospitalar-impulsiona-as-mortes-por-covid), sobre temas como mudanças climáticas, arboviroses, Covid-19 e emergências em saúde pública.
+Comunicações sobre mudanças climáticas, Covid-19 e saúde pública em veículos como **G1 (O Assunto)**, **CNN Brasil**, **BBC Brasil**, **Folha de S.Paulo**, **CBN** e **Canal Saúde**.
 
 ---
 
@@ -92,6 +81,6 @@ Entrevistas e participações em veículos como [Jornal Nacional](https://g1.glo
 
 <div align="center">
 
-📍 Rio de Janeiro, Brasil · 🏥 Fiocruz/ICICT · ♟️ Xadrez · 🐕 Dog lover
+📍 Rio de Janeiro, Brasil · 🏥 Fiocruz/Icict · ♟️ Xadrez · 🐕 Dog lover
 
 </div>
